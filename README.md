@@ -1,6 +1,11 @@
 Major Assignment 2 - Group 13\
 Cooper Bernard and 3 peers
 
+I was responsible for
+- main.*
+- new-alias.*
+- new-myhistory.*
+
 Design Overview:
     
 The program is intended to be a bash interface within the command line to execute simple commands typed by the user, following specific syntax. The program can also execute commands from a batch file, provided the file path is given as a command line argument.
