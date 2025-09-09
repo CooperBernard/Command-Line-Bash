@@ -1,6 +1,3 @@
-# Command-Line-Bash
-Group project for my term final in Intro to System Programming
-
 Major Assignment 2 - Group 13\
 Cooper Bernard and 3 peers
 
